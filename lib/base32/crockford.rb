@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-#
+# coding: utf-8
 # (c) 2008, Levin Alexander <http://levinalex.net>
 #
 # This file is released under the same license as ruby.
